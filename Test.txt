@@ -1,0 +1,4 @@
+Hi, I am Rutuja Maske.
+Welcome to my GitHub Respositories.
+This is test file to check the git and github configuration.
+
